@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kasy256  
+- 👋 Hi, I’m Kasy Jonan Agaba
 - 👀 I’m interested in **AI, cloud computing, data analysis, and building scalable tech solutions**.  
 - 🌱 I’m currently learning **advanced React, cloud services, and AI-driven development**.  
 - 💞️ I’m looking to collaborate on **open-source projects, tech startups, and AI-focused initiatives**.  
