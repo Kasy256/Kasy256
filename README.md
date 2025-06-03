@@ -25,4 +25,4 @@ Feel free to connect or collaborate!
 ## 😄 Pronouns: **He/Him**
 
 ## ⚡ Fun Fact  
-I’m the **Founder of FLiiTS**, a car-sharing platform that will revolutionize transportation across Africa! 🚗💡
+I’m the **Founder of FLYTS**, a car-sharing platform that will revolutionize transportation across Africa! 🚗💡
