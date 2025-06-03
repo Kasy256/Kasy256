@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Kasy Jonan Agaba**  
-Founder of **FLiiTS**, an innovative car-sharing platform transforming transportation across Africa! 🚗💡  
+Founder of **FLYTS**, an innovative car-sharing platform transforming transportation across Africa! 🚗💡  
 
 ## About Me  
 I’m passionate about building scalable **tech solutions** that leverage cutting-edge technologies, from **AI and cloud computing** to **data analytics**. As a **founder** and a developer, I’m focused on solving real-world challenges through technology and innovation.  
