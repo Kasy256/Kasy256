@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Kasy Jonan Agaba (Jamal)**  
+# 👋 Hi, I’m **Jamal Jonan Agaba (Kasy)**  
 Founder of **FLYTS**, an innovative car-sharing platform transforming transportation across Africa! 🚗💡  
 
 ## About Me  
