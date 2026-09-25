@@ -1,28 +1,36 @@
-# 👋 Hi, I’m **Jamal Jonan Agaba (Kasy)**  
-Founder of **FLYTS**, an innovative car-sharing platform transforming transportation across Africa! 🚗💡  
+### Hi, I'm Jamal Jonan Agaba (Kasy) 👋
 
-## About Me  
-I’m passionate about building scalable **tech solutions** that leverage cutting-edge technologies, from **AI and cloud computing** to **data analytics**. As a **founder** and a developer, I’m focused on solving real-world challenges through technology and innovation.  
+Full-stack and mobile engineer, and co-founder of **[Cartlyf Technologies](https://www.cartlyftechnologies.com)**.
+I build products for East African markets and take them from first commit to the app stores. 🇰🇪🇺🇬
 
-🔍 I’m constantly exploring new ways to integrate **AI-driven development** with **cloud services** to create smarter, more efficient systems. With a background in **React development, systems administration**, and **data analytics**, I am always eager to push the boundaries of what’s possible in the tech world.
+---
 
-## 🔧 What I'm Currently Learning  
-- **Advanced React** for building scalable and performant applications  
-- **Cloud Computing & Services** to enhance application infrastructure  
-- **AI and Machine Learning** to develop intelligent, data-driven solutions
+### 🚗 Building
 
-## 🤝 I’m Looking to Collaborate On  
-I’m open to exciting opportunities to collaborate on:
-- **Open-source projects** that aim to push the tech community forward  
-- **Tech startups** focused on solving real-world problems through innovative solutions  
-- **AI-focused initiatives** that harness the power of data to drive actionable insights  
+**[FLYTS](https://www.flytsapp.com)**: a peer-to-peer car rental marketplace for Kenya and Uganda, currently pre-launch.
+React Native / Expo · Supabase · M-Pesa and card payments with escrow · KYC · data-protection compliant
 
-## 📫 How to Reach Me  
-Feel free to connect or collaborate!  
-- **Email**: [jonanrayan06@gmail.com](mailto:jonanrayan06@gmail.com)  
-- **LinkedIn**: [Kasy Jonan Agaba](https://www.linkedin.com/in/jonan-agaba256)  
+### 💼 Recent work · [@tek-juice](https://github.com/tek-juice)
 
-## 😄 Pronouns: **He/Him**
+- **CoLaw Hub**: multi-tenant leave and holiday management SaaS for UK firms
+  `NestJS` `TypeScript` `PostgreSQL + RLS` `Drizzle` `AWS EC2 / ALB / RDS`
+- **Kampala Nights**: nightlife discovery app, shipped via TestFlight
+  `React Native` `Expo` `Firebase` `Cloudflare Stream` `Stream Chat` `FCM`
+- **Fleet Alert Automation**: document-expiry tracking with daily email alerts, live with a logistics client
 
-## ⚡ Fun Fact  
-I’m the **Founder of FLYTS**, a car-sharing platform that will revolutionize transportation across Africa! 🚗💡
+### 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,postgres,supabase,firebase,aws,cloudflare,tailwind,git&perline=12" alt="Tech stack" />
+</p>
+
+Also: Expo & EAS · M-Pesa · Paystack · Flutterwave · Play Store & App Store releases
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonan-agaba256)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jonanrayan06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firebase&logoColor=FFCA28)](https://kasyjonanagaba.web.app)
+[![FLYTS](https://img.shields.io/badge/FLYTS-flytsapp.com-1f6feb?style=flat)](https://www.flytsapp.com)
+
+Open to contract work and collaborations with startups building in Africa.
